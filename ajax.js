@@ -51,7 +51,7 @@
 //             console.log("Error", this.status);
 //         }
 //     }
-//     xhr.send();
+//     xhr.send(); okay
 // }
 
 $('#backupbtn').click(function(e){
