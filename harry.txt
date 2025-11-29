@@ -1,0 +1,17 @@
+this is harry.txt
+
+employee_age
+: 
+61
+employee_name
+: 
+"Tiger Nixon"
+employee_salary
+: 
+320800
+id
+: 
+1
+profile_image
+: 
+""
