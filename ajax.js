@@ -51,7 +51,7 @@
 //             console.log("Error", this.status);
 //         }
 //     }
-//     xhr.send(); okay
+//     xhr.send(); okay added new comment.
 // }
 
 $('#backupbtn').click(function(e){
